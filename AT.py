@@ -2,7 +2,7 @@ import asyncio
 import aiohttp
 import json
 
-API_KEY = 'AIzaSyDH3oZ0SGs-4MkxRn37hdgGG6Cx9xR2AwQ'
+API_KEY = <DELETED_FOR_SAFETY>
 
 
 
